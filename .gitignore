@@ -1,0 +1,11 @@
+.env
+.venv/
+__pycache__/
+tmp/
+*.log
+*.bak
+search/
+deploy/
+DEPLOYMENT.md
+tavlo.env.example
+.env.*
